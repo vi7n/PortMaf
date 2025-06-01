@@ -4,4 +4,4 @@ the other 2 index are copies in case I liose the or make some mistake in the cur
 
 
 todo's
-- edit about section ( remove stuff about the financial modeling and whatnot)
+- add more details and media for projects (imaghes, running simulation, etc)
